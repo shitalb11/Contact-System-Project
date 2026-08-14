@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.itshaala</groupId>
-    <artifactId>Contact_Book_System</artifactId>
+    <artifactId>Contact_System</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Newcrud</name>
     <description>Newcrud</description>
